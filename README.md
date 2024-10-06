@@ -1,4 +1,4 @@
-Here's a sample `README.md` file for your banking system project:
+Here's a sample `README.md` file for  banking system project:
 
 ---
 
